@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  background: #f0f0f0;
+  margin: 0;
+  padding: 1em;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  background: #fff;
+  padding: 2em;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  padding: 1em;
+  margin: 0.5em;
+  font-size: 16px;
+  width: 45%;
+}
+
+ul {
+  padding-left: 1em;
+}
